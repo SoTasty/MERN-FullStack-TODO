@@ -1,0 +1,56 @@
+
+.App {
+    
+}
+img {
+    
+    max-width: 125px;
+   }
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+.welcome-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.welcome-1__1 {
+    margin-bottom: 45px;
+}
+
+.welcome-1__2 {
+    text-align: end;  
+    margin-bottom: 100px;
+}
+
+.welcome-2 {
+    text-align: center;
+}
+
+.welcome-2__profits {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.welcome-3 {
+    text-align: center;
+    margin: 100px 0 300px 0;
+}
+
+.todo-app__button {
+    color: white;
+    margin-top: 16px;
+    padding: 16px 32px;
+    border-radius: 99px;
+    background-image: linear-gradient(to right, var(--primary), var(--pinker));
+    display: inline-block;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+}
